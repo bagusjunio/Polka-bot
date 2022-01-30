@@ -1,7 +1,7 @@
 {
-  "name": "clan_bot",
+  "name": "polka",
   "version": "11.0.0",
-  "description": "A Discord Bot made by: Tomato#6966",
+  "description": "A Discord Bot made by: Bagus Junio#0104",
   "main": "index.js",
   "dependencies": {
     "@discordjs/builders": "^0.12.0",
@@ -52,11 +52,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Tomato#6966",
+  "author": "BagusJunio#0104",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tomato6966/Multipurpose-discord-bot"
+    "url": "git+https://github.com/bagusjunio/Polka-bot"
   },
   "keywords": [
     "lavalink",
@@ -79,7 +79,7 @@
     "reactions"
   ],
   "bugs": {
-    "url": "https://github.com/Tomato6966/Multipurpose-discord-bot/issues"
+    "url": "https://github.com/bagusjunio/Polka-bot/issues"
   },
-  "homepage": "https://milrato.dev"
+  "homepage": "https://www.servereclipse.site"
 }
